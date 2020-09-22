@@ -36,7 +36,7 @@
 <hr>
 <h1>Settings JSON</h1>
 
-`
+```json
 {
 	"editor.fontSize": 16,
 	"editor.lineHeight": 24,
@@ -137,4 +137,4 @@
 	"codemetrics.nodeconfiguration.CaseClause": 0,
 	"codemetrics.nodeconfiguration.DefaultClause": 0
 }
-`
+```
